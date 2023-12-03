@@ -1,4 +1,4 @@
-# pop_up_dialog
+# alert_dialog
 
 A new Flutter project.
 
