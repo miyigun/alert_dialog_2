@@ -11,13 +11,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Pop up Dialog Example',
+      title: 'Alert Dialog Example',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const Home(title: 'Pop up Dialog Example'),
+      home: const Home(title: 'Alert Dialog Example'),
     );
   }
 }
